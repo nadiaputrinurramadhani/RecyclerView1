@@ -1,8 +1,9 @@
-Nama : Nadia Putri Nur Ramadhani
-Kelas : XI RPL 3
-Nomor : 24
-NIS : 4782/1501.070
-Sekolah : SMK Telkom Malang
+# RecyclerView1
+Nama : Nadia Putri Nur Ramadhani<br>
+Kelas : XI RPL 3<br>
+Nomor : 24<br>
+NIS : 4782/1501.070<br>
+Sekolah : SMK Telkom Malang<br>
 
-https://github.com/nadiaputrinurramadhani/RecyclerView1/blob/master/01.JPG
-https://github.com/nadiaputrinurramadhani/RecyclerView1/blob/master/02.JPG
+![Screenshot] (https://github.com/nadiaputrinurramadhani/RecyclerView1/blob/master/01.JPG)
+![Screenshot] (https://github.com/nadiaputrinurramadhani/RecyclerView1/blob/master/02.JPG)
